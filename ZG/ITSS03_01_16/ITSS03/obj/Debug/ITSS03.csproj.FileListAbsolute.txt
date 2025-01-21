@@ -1,0 +1,11 @@
+D:\KNN91\3_OnThi\01-16\ITSS03\ITSS03\bin\Debug\ITSS03.exe.config
+D:\KNN91\3_OnThi\01-16\ITSS03\ITSS03\bin\Debug\ITSS03.exe
+D:\KNN91\3_OnThi\01-16\ITSS03\ITSS03\bin\Debug\ITSS03.pdb
+D:\KNN91\3_OnThi\01-16\ITSS03\ITSS03\obj\Debug\ITSS03.csproj.AssemblyReference.cache
+D:\KNN91\3_OnThi\01-16\ITSS03\ITSS03\obj\Debug\ITSS03.Properties.Resources.resources
+D:\KNN91\3_OnThi\01-16\ITSS03\ITSS03\obj\Debug\ITSS03.csproj.GenerateResource.cache
+D:\KNN91\3_OnThi\01-16\ITSS03\ITSS03\obj\Debug\ITSS03.csproj.CoreCompileInputs.cache
+D:\KNN91\3_OnThi\01-16\ITSS03\ITSS03\obj\Debug\ITSS03.exe
+D:\KNN91\3_OnThi\01-16\ITSS03\ITSS03\obj\Debug\ITSS03.pdb
+D:\KNN91\3_OnThi\01-16\ITSS03\ITSS03\obj\Debug\ITSS03.Login.resources
+D:\KNN91\3_OnThi\01-16\ITSS03\ITSS03\obj\Debug\ITSS03.Emergency_Maintenance_Management.resources

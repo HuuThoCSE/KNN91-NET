@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\WorkSkills\\IT SOFTWARE SOLUTIONS\\ITSS02\\LeNguyenQuangBinh_21022010\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FB029F-D55B-4807-9F2F-DAA3C28D326E}|LeNguyenQuangBinh_21022010\\LeNguyenQuangBinh_21022010.csproj|d:\\workskills\\it software solutions\\itss02\\lenguyenquangbinh_21022010\\lenguyenquangbinh_21022010\\emergencymaintenancesmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2FB029F-D55B-4807-9F2F-DAA3C28D326E}|LeNguyenQuangBinh_21022010\\LeNguyenQuangBinh_21022010.csproj|solutionrelative:lenguyenquangbinh_21022010\\emergencymaintenancesmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FB029F-D55B-4807-9F2F-DAA3C28D326E}|LeNguyenQuangBinh_21022010\\LeNguyenQuangBinh_21022010.csproj|d:\\workskills\\it software solutions\\itss02\\lenguyenquangbinh_21022010\\lenguyenquangbinh_21022010\\emergencymaintenancesmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FB029F-D55B-4807-9F2F-DAA3C28D326E}|LeNguyenQuangBinh_21022010\\LeNguyenQuangBinh_21022010.csproj|solutionrelative:lenguyenquangbinh_21022010\\emergencymaintenancesmanagement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FB029F-D55B-4807-9F2F-DAA3C28D326E}|LeNguyenQuangBinh_21022010\\LeNguyenQuangBinh_21022010.csproj|d:\\workskills\\it software solutions\\itss02\\lenguyenquangbinh_21022010\\lenguyenquangbinh_21022010\\emergencymaintenancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2FB029F-D55B-4807-9F2F-DAA3C28D326E}|LeNguyenQuangBinh_21022010\\LeNguyenQuangBinh_21022010.csproj|solutionrelative:lenguyenquangbinh_21022010\\emergencymaintenancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FB029F-D55B-4807-9F2F-DAA3C28D326E}|LeNguyenQuangBinh_21022010\\LeNguyenQuangBinh_21022010.csproj|d:\\workskills\\it software solutions\\itss02\\lenguyenquangbinh_21022010\\lenguyenquangbinh_21022010\\emergencymaintenancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FB029F-D55B-4807-9F2F-DAA3C28D326E}|LeNguyenQuangBinh_21022010\\LeNguyenQuangBinh_21022010.csproj|solutionrelative:lenguyenquangbinh_21022010\\emergencymaintenancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FB029F-D55B-4807-9F2F-DAA3C28D326E}|LeNguyenQuangBinh_21022010\\LeNguyenQuangBinh_21022010.csproj|d:\\workskills\\it software solutions\\itss02\\lenguyenquangbinh_21022010\\lenguyenquangbinh_21022010\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FB029F-D55B-4807-9F2F-DAA3C28D326E}|LeNguyenQuangBinh_21022010\\LeNguyenQuangBinh_21022010.csproj|solutionrelative:lenguyenquangbinh_21022010\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FB029F-D55B-4807-9F2F-DAA3C28D326E}|LeNguyenQuangBinh_21022010\\LeNguyenQuangBinh_21022010.csproj|d:\\workskills\\it software solutions\\itss02\\lenguyenquangbinh_21022010\\lenguyenquangbinh_21022010\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D2FB029F-D55B-4807-9F2F-DAA3C28D326E}|LeNguyenQuangBinh_21022010\\LeNguyenQuangBinh_21022010.csproj|solutionrelative:lenguyenquangbinh_21022010\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmergencyMaintenanceRequest.cs",
+              "DocumentMoniker": "D:\\WorkSkills\\IT SOFTWARE SOLUTIONS\\ITSS02\\LeNguyenQuangBinh_21022010\\LeNguyenQuangBinh_21022010\\EmergencyMaintenanceRequest.cs",
+              "RelativeDocumentMoniker": "LeNguyenQuangBinh_21022010\\EmergencyMaintenanceRequest.cs",
+              "ToolTip": "D:\\WorkSkills\\IT SOFTWARE SOLUTIONS\\ITSS02\\LeNguyenQuangBinh_21022010\\LeNguyenQuangBinh_21022010\\EmergencyMaintenanceRequest.cs",
+              "RelativeToolTip": "LeNguyenQuangBinh_21022010\\EmergencyMaintenanceRequest.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwDYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T04:47:14.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmergencyMaintenanceRequest.cs [Design]",
+              "DocumentMoniker": "D:\\WorkSkills\\IT SOFTWARE SOLUTIONS\\ITSS02\\LeNguyenQuangBinh_21022010\\LeNguyenQuangBinh_21022010\\EmergencyMaintenanceRequest.cs",
+              "RelativeDocumentMoniker": "LeNguyenQuangBinh_21022010\\EmergencyMaintenanceRequest.cs",
+              "ToolTip": "D:\\WorkSkills\\IT SOFTWARE SOLUTIONS\\ITSS02\\LeNguyenQuangBinh_21022010\\LeNguyenQuangBinh_21022010\\EmergencyMaintenanceRequest.cs [Design]",
+              "RelativeToolTip": "LeNguyenQuangBinh_21022010\\EmergencyMaintenanceRequest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T04:38:15.222Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmergencyMaintenancesManagement.cs",
+              "DocumentMoniker": "D:\\WorkSkills\\IT SOFTWARE SOLUTIONS\\ITSS02\\LeNguyenQuangBinh_21022010\\LeNguyenQuangBinh_21022010\\EmergencyMaintenancesManagement.cs",
+              "RelativeDocumentMoniker": "LeNguyenQuangBinh_21022010\\EmergencyMaintenancesManagement.cs",
+              "ToolTip": "D:\\WorkSkills\\IT SOFTWARE SOLUTIONS\\ITSS02\\LeNguyenQuangBinh_21022010\\LeNguyenQuangBinh_21022010\\EmergencyMaintenancesManagement.cs",
+              "RelativeToolTip": "LeNguyenQuangBinh_21022010\\EmergencyMaintenancesManagement.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAmwEMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T03:17:26.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmergencyMaintenancesManagement.cs [Design]",
+              "DocumentMoniker": "D:\\WorkSkills\\IT SOFTWARE SOLUTIONS\\ITSS02\\LeNguyenQuangBinh_21022010\\LeNguyenQuangBinh_21022010\\EmergencyMaintenancesManagement.cs",
+              "RelativeDocumentMoniker": "LeNguyenQuangBinh_21022010\\EmergencyMaintenancesManagement.cs",
+              "ToolTip": "D:\\WorkSkills\\IT SOFTWARE SOLUTIONS\\ITSS02\\LeNguyenQuangBinh_21022010\\LeNguyenQuangBinh_21022010\\EmergencyMaintenancesManagement.cs [Design]",
+              "RelativeToolTip": "LeNguyenQuangBinh_21022010\\EmergencyMaintenancesManagement.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T03:17:13.204Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\WorkSkills\\IT SOFTWARE SOLUTIONS\\ITSS02\\LeNguyenQuangBinh_21022010\\LeNguyenQuangBinh_21022010\\Login.cs",
+              "RelativeDocumentMoniker": "LeNguyenQuangBinh_21022010\\Login.cs",
+              "ToolTip": "D:\\WorkSkills\\IT SOFTWARE SOLUTIONS\\ITSS02\\LeNguyenQuangBinh_21022010\\LeNguyenQuangBinh_21022010\\Login.cs",
+              "RelativeToolTip": "LeNguyenQuangBinh_21022010\\Login.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T03:07:02.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\WorkSkills\\IT SOFTWARE SOLUTIONS\\ITSS02\\LeNguyenQuangBinh_21022010\\LeNguyenQuangBinh_21022010\\Login.cs",
+              "RelativeDocumentMoniker": "LeNguyenQuangBinh_21022010\\Login.cs",
+              "ToolTip": "D:\\WorkSkills\\IT SOFTWARE SOLUTIONS\\ITSS02\\LeNguyenQuangBinh_21022010\\LeNguyenQuangBinh_21022010\\Login.cs [Design]",
+              "RelativeToolTip": "LeNguyenQuangBinh_21022010\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T03:03:25.735Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

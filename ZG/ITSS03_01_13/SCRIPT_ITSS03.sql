@@ -1,0 +1,218 @@
+﻿CREATE DATABASE ITSS03DATA
+GO
+
+USE ITSS03DATA
+GO
+
+CREATE TABLE DEPARTMENTS
+(
+	ID INT PRIMARY KEY,
+	NAME VARCHAR(100),
+)
+GO
+CREATE TABLE LOCATIONS
+(
+	ID INT PRIMARY KEY,
+	NAME VARCHAR(100),
+)
+GO
+CREATE TABLE PRIORITIES
+(
+	ID INT PRIMARY KEY,
+	NAME varchar(20),
+)
+GO
+CREATE TABLE PARTS
+(
+	ID INT PRIMARY KEY,
+	NAME VARCHAR(100),
+	EFFECTIVELIFE INT
+)
+GO
+CREATE TABLE ASSETGROUPS
+(
+	ID INT PRIMARY KEY,
+	NAME VARCHAR(100),
+)
+GO
+CREATE TABLE EMPLOYEES
+(
+	ID INT PRIMARY KEY,
+	FIRSTNAME VARCHAR(100),
+	LASTNAME VARCHAR(100),
+	PHONE VARCHAR(12),
+	ISADMIN BIT,
+	USERNAME VARCHAR(50),
+	PASSWORD VARCHAR(50)
+)
+GO
+CREATE TABLE DEPARTMENTLOCATIONS
+(
+	ID INT PRIMARY KEY,
+	DEPARTMENTID INT,
+	LOCATIONID INT,
+	STARTDATE DATE,
+	ENDDATE DATE,
+
+	CONSTRAINT FK_DEPLO_DEP FOREIGN KEY (DEPARTMENTID)
+		REFERENCES DEPARTMENTS(ID),
+	CONSTRAINT FK_DEPLO_LOC FOREIGN KEY (LOCATIONID)
+		REFERENCES LOCATIONS(ID)
+)
+GO
+CREATE TABLE ASSETS 
+(
+	ID INT PRIMARY KEY,
+	ASSETSN VARCHAR(100),
+	ASSETNAME VARCHAR(100),
+	DEPARTMENTLOCAIONID INT,
+	EMPLOYEEID INT,
+	ASSETGROUPID INT,
+	DESCRIPTION VARCHAR(200),
+	WARRANTYDATE DATE,
+	CONSTRAINT FK_ASS_ASSG FOREIGN KEY (ASSETGROUPID)
+		REFERENCES ASSETGROUPS (ID),
+	CONSTRAINT FK_ASS_EMP FOREIGN KEY (EMPLOYEEID)
+		REFERENCES EMPLOYEES (ID),
+		CONSTRAINT FK_ASS_DEPART FOREIGN KEY (DEPARTMENTLOCAIONID)
+		REFERENCES DEPARTMENTLOCATIONS (ID)
+)
+GO
+CREATE TABLE EMERGENCYMAINTENANCES
+(
+	ID INT IDENTITY(1,1) PRIMARY KEY,
+	ASSETID INT, 
+	PRIORITYID INT,
+	DESCRIPTIONEMERGECY VARCHAR(200),
+	ORTHERCONSIDERATIONS VARCHAR(200),
+	EMREPORTDATE DATE,
+	EMSTARTDATE DATE,
+	EMENDDATE DATE,
+	EMTECHNICIANNOTE VARCHAR(200),
+
+	CONSTRAINT FK_EMR_ASS FOREIGN KEY (ASSETID)
+		REFERENCES ASSETS(ID),
+	CONSTRAINT FK_EMR_PRI FOREIGN KEY (PRIORITYID)
+		REFERENCES PRIORITIES(ID)
+)
+GO
+CREATE TABLE CHANGEDPARTS
+(
+	ID INT PRIMARY KEY,
+	EMERGENCYMAINTENANCESID INT,
+	PARTID INT, 
+	AMOUNT INT,
+
+	CONSTRAINT FK_CHG_EMER FOREIGN KEY(EMERGENCYMAINTENANCESID)
+	REFERENCES EMERGENCYMAINTENANCES (ID),
+	CONSTRAINT FK_CHG_PARTS FOREIGN KEY(PARTID)
+	REFERENCES PARTS (ID),
+)
+
+INSERT INTO DEPARTMENTS VALUES
+(1, 'Center Office'),
+(2, 'Center Office 2')
+GO
+INSERT INTO LOCATIONS VALUES
+(1, 'Vinh Long'),
+(2, 'Can Tho')
+go
+SET DATEFORMAT DMY
+INSERT INTO DEPARTMENTLOCATIONS VALUES
+(1, 1,1,'22/8/2022','22/9/2025'),
+(2, 2,2,'22/2/2022','22/3/2025')
+go
+insert into ASSETGROUPS values
+(1,'suction'),
+(2, 'hilux'),
+(3, 'mooring')
+go
+insert into  EMPLOYEES values 
+(1, 'Ngan','Tran Thi','0125969874',1, 'ngan','123'),
+(2, 'Duy','Tran Thi','0125969866',0, 'duy','123')
+go
+set dateformat dmy
+insert into ASSETS values 
+(1, '02/03/0022','Suction line',1,1,1,'not thing','2/12/2023'),
+(2, '02/03/0055','toyota hilux fa',2,2,2,'not thing','2/12/2023'),
+(3, '02/03/0021','Mooring System',1,1,3,'not thing','2/12/2023')
+go
+insert into PRIORITIES values
+(1,'Very High'),
+(2,'High'),
+(3,'Normal')
+
+go
+insert into PARTS values 
+(1, 'wheel type 1',12),
+(2, 'wheel type 2 ',10)
+go
+set dateformat dmy
+insert into EMERGENCYMAINTENANCES values
+(1, 1, 'break wheel 1', 'none','23/11/2023','24/11/2023','30/11/2023','none'),
+(2,2, 'break wheel 2', 'none','23/8/2023','24/8/2023',null,'none'),
+(3, 1, 'break wheel 4', 'none','23/8/2023','24/11/2023','30/11/2023','none'),
+(1,1, 'break wheel 3', 'none','23/9/2023','24/8/2023',null,'none')
+
+go 
+insert into CHANGEDPARTS values 
+(1,1,1,4), 
+(2,2,2,4)
+
+
+-- display asset list for admin 
+-- request date chưa có enddate (null)
+
+select  ASSETSN ,ASSETNAME, EMREPORTDATE as 'Request Date' ,  LASTNAME +' '+ FIRSTNAME as 'Employee Full Name',de.NAME, emm.id  
+from ASSETS ass
+join EMERGENCYMAINTENANCES emm on emm.ASSETID = ass.ID
+join EMPLOYEES emp on emp.ID = ass.EMPLOYEEID
+join DEPARTMENTLOCATIONS del on del.ID = ass.DEPARTMENTLOCAIONID
+join DEPARTMENTS de on de.ID = del.DEPARTMENTID
+join PRIORITIES pri on pri.ID = emm.PRIORITYID
+where emm.EMENDDATE is null
+order by case  pri.NAME 
+				when 'Very High' then 0
+				when 'High' then 1
+				else 2
+				end,
+				EMREPORTDATE asc
+
+-- request not complete, tìm những merergency có startreportdate gần nhất nhưng ko có enddate
+
+select ASSETSN, ASSETNAME, 
+(select top(1) EMENDDATE  from EMERGENCYMAINTENANCES  where ASSETID = ass.ID order by EMREPORTDATE desc ) as 'Last closed EM',
+(select  COUNT(ASSETID) from EMERGENCYMAINTENANCES where ASSETID = ass.ID) as 'number of EMs' from ASSETS ass
+where ASSETSN = '02/03/0021'
+
+
+-- display asset list for account party
+select  ASSETSN ,ASSETNAME, EMREPORTDATE as 'Request Date' ,  LASTNAME +' '+ FIRSTNAME as 'Employee Full Name' , de.NAME, emm.id   
+from ASSETS ass
+join EMERGENCYMAINTENANCES emm on emm.ASSETID = ass.ID
+join EMPLOYEES emp on emp.ID = ass.EMPLOYEEID
+join PRIORITIES pri on pri.ID = emm.PRIORITYID
+join DEPARTMENTLOCATIONS del on del.ID = ass.DEPARTMENTLOCAIONID
+join DEPARTMENTS de on de.ID = del.DEPARTMENTID
+where emm.EMENDDATE is null and emp.ID = 2
+order by case  pri.NAME 
+				when 'Very High' then 0
+				when 'High' then 1
+				else 2
+				end,
+				EMREPORTDATE asc
+
+-- display asset in emer request
+select ASSETSN, ASSETNAME, dp.NAME, dp.NAME as 'department', em.EMSTARTDATE, em.EMENDDATE, em.EMTECHNICIANNOTE
+from ASSETS ass
+join DEPARTMENTLOCATIONS dpl   on dpl.ID = ass.DEPARTMENTLOCAIONID
+join DEPARTMENTS dp on dpl.DEPARTMENTID = dp.ID
+join EMERGENCYMAINTENANCES em on em.ASSETID = ass.ID
+where ass.ASSETNAME = 'Suction line' and em.ID = 10
+
+-- display list partchanged
+select NAME, AMOUNT from CHANGEDPARTS cp 
+join PARTS on PARTS.ID = cp.PARTID
+join EMERGENCYMAINTENANCES em on em.ID = cp.EMERGENCYMAINTENANCESID
+where cp.EMERGENCYMAINTENANCESID = 1
+

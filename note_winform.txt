@@ -1,0 +1,46 @@
+-----------------------------------open connect------------------------
+SqlConnection conn = new SqlConnection();
+conn.ConnectionString("server: localhost; database: name; uid: sa; pwd: 123");
+conn.open;
+
+- ------------------select bằng DataAdapter--------------------
+string sql = "";
+SqlDataAdapter sda = new SqlDataAdapter(sql, conn);
+DataTable dt = new DataTable ();
+sda.fill(dt)
+--datagirdview.rows.clear() //khi load lai form
+foreach(datarow dr in dt.rows)
+{
+    int n = datagirdview.rows.add();
+    datagirdview.rows[n].cell[1].value = dr[1].tostring();
+}	
+
+- ---------------------select bằng DataReader ------------------------
+string sql = "";
+SqlCommand cmd = new SqlCommand(sql, conn);
+SqlDataReader sdr = cmd.ExcuteReader();
+//nếu select lấy 1 giá trị
+if(sdr.read())
+{
+      string temp = sdr['tencot'].tostring();
+}
+sdr.close()
+//nếu select ra gridview hoặc cbb
+DataTable dt = new DataTable()
+sdr.load(dt);
+//datagridview
+foreach(datarow dr in dt.rows)
+{}
+//combobox
+cbb.datasource = dt;
+cbb.DisplayMember="name";
+cbb.ValueMember = "id";
+
+- -------------- Thực thi thao tác dữ liệu (insert/update/delete)-----------
+string sql = "";
+SqlCommand cmd = new SqlCommand(sql, conn);
+result = cmd.ExecuteNonQuery();
+if(result > 0)
+{
+    // xử lý khi thực thi thành công
+}

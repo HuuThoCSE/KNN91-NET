@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KNN91\\3_OnThi\\01-17\\ITSS01_1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{23CD98EC-E474-41E4-AB2C-340A28F7B904}|ITSS01_1\\ITSS01_1.csproj|d:\\knn91\\3_onthi\\01-17\\itss01_1\\itss01_1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CD98EC-E474-41E4-AB2C-340A28F7B904}|ITSS01_1\\ITSS01_1.csproj|solutionrelative:itss01_1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CD98EC-E474-41E4-AB2C-340A28F7B904}|ITSS01_1\\ITSS01_1.csproj|d:\\knn91\\3_onthi\\01-17\\itss01_1\\itss01_1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23CD98EC-E474-41E4-AB2C-340A28F7B904}|ITSS01_1\\ITSS01_1.csproj|solutionrelative:itss01_1\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CD98EC-E474-41E4-AB2C-340A28F7B904}|ITSS01_1\\ITSS01_1.csproj|d:\\knn91\\3_onthi\\01-17\\itss01_1\\itss01_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CD98EC-E474-41E4-AB2C-340A28F7B904}|ITSS01_1\\ITSS01_1.csproj|solutionrelative:itss01_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CD98EC-E474-41E4-AB2C-340A28F7B904}|ITSS01_1\\ITSS01_1.csproj|d:\\knn91\\3_onthi\\01-17\\itss01_1\\itss01_1\\formorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23CD98EC-E474-41E4-AB2C-340A28F7B904}|ITSS01_1\\ITSS01_1.csproj|solutionrelative:itss01_1\\formorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CD98EC-E474-41E4-AB2C-340A28F7B904}|ITSS01_1\\ITSS01_1.csproj|d:\\knn91\\3_onthi\\01-17\\itss01_1\\itss01_1\\formorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CD98EC-E474-41E4-AB2C-340A28F7B904}|ITSS01_1\\ITSS01_1.csproj|solutionrelative:itss01_1\\formorder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CD98EC-E474-41E4-AB2C-340A28F7B904}|ITSS01_1\\ITSS01_1.csproj|d:\\knn91\\3_onthi\\01-17\\itss01_1\\itss01_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{23CD98EC-E474-41E4-AB2C-340A28F7B904}|ITSS01_1\\ITSS01_1.csproj|solutionrelative:itss01_1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{23CD98EC-E474-41E4-AB2C-340A28F7B904}|ITSS01_1\\ITSS01_1.csproj|d:\\knn91\\3_onthi\\01-17\\itss01_1\\itss01_1\\storages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{23CD98EC-E474-41E4-AB2C-340A28F7B904}|ITSS01_1\\ITSS01_1.csproj|solutionrelative:itss01_1\\storages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs",
+              "DocumentMoniker": "D:\\KNN91\\3_OnThi\\01-17\\ITSS01_1\\ITSS01_1\\Form3.cs",
+              "RelativeDocumentMoniker": "ITSS01_1\\Form3.cs",
+              "ToolTip": "D:\\KNN91\\3_OnThi\\01-17\\ITSS01_1\\ITSS01_1\\Form3.cs",
+              "RelativeToolTip": "ITSS01_1\\Form3.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAuwE4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:09:00.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "D:\\KNN91\\3_OnThi\\01-17\\ITSS01_1\\ITSS01_1\\Form3.cs",
+              "RelativeDocumentMoniker": "ITSS01_1\\Form3.cs",
+              "ToolTip": "D:\\KNN91\\3_OnThi\\01-17\\ITSS01_1\\ITSS01_1\\Form3.cs [Design]",
+              "RelativeToolTip": "ITSS01_1\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:07:47.301Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Storages.cs",
+              "DocumentMoniker": "D:\\KNN91\\3_OnThi\\01-17\\ITSS01_1\\ITSS01_1\\Storages.cs",
+              "RelativeDocumentMoniker": "ITSS01_1\\Storages.cs",
+              "ToolTip": "D:\\KNN91\\3_OnThi\\01-17\\ITSS01_1\\ITSS01_1\\Storages.cs",
+              "RelativeToolTip": "ITSS01_1\\Storages.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:06:45.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormOrder.cs",
+              "DocumentMoniker": "D:\\KNN91\\3_OnThi\\01-17\\ITSS01_1\\ITSS01_1\\FormOrder.cs",
+              "RelativeDocumentMoniker": "ITSS01_1\\FormOrder.cs",
+              "ToolTip": "D:\\KNN91\\3_OnThi\\01-17\\ITSS01_1\\ITSS01_1\\FormOrder.cs",
+              "RelativeToolTip": "ITSS01_1\\FormOrder.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAowJUAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T13:00:38.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormOrder.cs [Design]",
+              "DocumentMoniker": "D:\\KNN91\\3_OnThi\\01-17\\ITSS01_1\\ITSS01_1\\FormOrder.cs",
+              "RelativeDocumentMoniker": "ITSS01_1\\FormOrder.cs",
+              "ToolTip": "D:\\KNN91\\3_OnThi\\01-17\\ITSS01_1\\ITSS01_1\\FormOrder.cs [Design]",
+              "RelativeToolTip": "ITSS01_1\\FormOrder.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:53:02.68Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\KNN91\\3_OnThi\\01-17\\ITSS01_1\\ITSS01_1\\Form1.cs",
+              "RelativeDocumentMoniker": "ITSS01_1\\Form1.cs",
+              "ToolTip": "D:\\KNN91\\3_OnThi\\01-17\\ITSS01_1\\ITSS01_1\\Form1.cs",
+              "RelativeToolTip": "ITSS01_1\\Form1.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAAuwHkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:48:55.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\KNN91\\3_OnThi\\01-17\\ITSS01_1\\ITSS01_1\\Form1.cs",
+              "RelativeDocumentMoniker": "ITSS01_1\\Form1.cs",
+              "ToolTip": "D:\\KNN91\\3_OnThi\\01-17\\ITSS01_1\\ITSS01_1\\Form1.cs [Design]",
+              "RelativeToolTip": "ITSS01_1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T12:42:29.066Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

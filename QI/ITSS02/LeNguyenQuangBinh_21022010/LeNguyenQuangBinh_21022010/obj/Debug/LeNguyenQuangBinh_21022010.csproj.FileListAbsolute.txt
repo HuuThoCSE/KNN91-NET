@@ -1,0 +1,12 @@
+D:\WorkSkills\IT SOFTWARE SOLUTIONS\ITSS02\LeNguyenQuangBinh_21022010\LeNguyenQuangBinh_21022010\bin\Debug\LeNguyenQuangBinh_21022010.exe.config
+D:\WorkSkills\IT SOFTWARE SOLUTIONS\ITSS02\LeNguyenQuangBinh_21022010\LeNguyenQuangBinh_21022010\bin\Debug\LeNguyenQuangBinh_21022010.exe
+D:\WorkSkills\IT SOFTWARE SOLUTIONS\ITSS02\LeNguyenQuangBinh_21022010\LeNguyenQuangBinh_21022010\bin\Debug\LeNguyenQuangBinh_21022010.pdb
+D:\WorkSkills\IT SOFTWARE SOLUTIONS\ITSS02\LeNguyenQuangBinh_21022010\LeNguyenQuangBinh_21022010\obj\Debug\LeNguyenQuangBinh_21022010.csproj.AssemblyReference.cache
+D:\WorkSkills\IT SOFTWARE SOLUTIONS\ITSS02\LeNguyenQuangBinh_21022010\LeNguyenQuangBinh_21022010\obj\Debug\LeNguyenQuangBinh_21022010.Login.resources
+D:\WorkSkills\IT SOFTWARE SOLUTIONS\ITSS02\LeNguyenQuangBinh_21022010\LeNguyenQuangBinh_21022010\obj\Debug\LeNguyenQuangBinh_21022010.Properties.Resources.resources
+D:\WorkSkills\IT SOFTWARE SOLUTIONS\ITSS02\LeNguyenQuangBinh_21022010\LeNguyenQuangBinh_21022010\obj\Debug\LeNguyenQuangBinh_21022010.csproj.GenerateResource.cache
+D:\WorkSkills\IT SOFTWARE SOLUTIONS\ITSS02\LeNguyenQuangBinh_21022010\LeNguyenQuangBinh_21022010\obj\Debug\LeNguyenQuangBinh_21022010.csproj.CoreCompileInputs.cache
+D:\WorkSkills\IT SOFTWARE SOLUTIONS\ITSS02\LeNguyenQuangBinh_21022010\LeNguyenQuangBinh_21022010\obj\Debug\LeNguyenQuangBinh_21022010.exe
+D:\WorkSkills\IT SOFTWARE SOLUTIONS\ITSS02\LeNguyenQuangBinh_21022010\LeNguyenQuangBinh_21022010\obj\Debug\LeNguyenQuangBinh_21022010.pdb
+D:\WorkSkills\IT SOFTWARE SOLUTIONS\ITSS02\LeNguyenQuangBinh_21022010\LeNguyenQuangBinh_21022010\obj\Debug\LeNguyenQuangBinh_21022010.EmergencyMaintenancesManagement.resources
+D:\WorkSkills\IT SOFTWARE SOLUTIONS\ITSS02\LeNguyenQuangBinh_21022010\LeNguyenQuangBinh_21022010\obj\Debug\LeNguyenQuangBinh_21022010.EmergencyMaintenanceRequest.resources

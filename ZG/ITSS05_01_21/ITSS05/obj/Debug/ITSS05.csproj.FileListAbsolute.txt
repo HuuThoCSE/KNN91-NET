@@ -1,0 +1,11 @@
+D:\KNN91\3_OnThi\01-21\ITSS05\ITSS05\bin\Debug\ITSS05.exe.config
+D:\KNN91\3_OnThi\01-21\ITSS05\ITSS05\bin\Debug\ITSS05.exe
+D:\KNN91\3_OnThi\01-21\ITSS05\ITSS05\bin\Debug\ITSS05.pdb
+D:\KNN91\3_OnThi\01-21\ITSS05\ITSS05\obj\Debug\ITSS05.csproj.AssemblyReference.cache
+D:\KNN91\3_OnThi\01-21\ITSS05\ITSS05\obj\Debug\ITSS05.Form1.resources
+D:\KNN91\3_OnThi\01-21\ITSS05\ITSS05\obj\Debug\ITSS05.Properties.Resources.resources
+D:\KNN91\3_OnThi\01-21\ITSS05\ITSS05\obj\Debug\ITSS05.csproj.GenerateResource.cache
+D:\KNN91\3_OnThi\01-21\ITSS05\ITSS05\obj\Debug\ITSS05.csproj.CoreCompileInputs.cache
+D:\KNN91\3_OnThi\01-21\ITSS05\ITSS05\obj\Debug\ITSS05.exe
+D:\KNN91\3_OnThi\01-21\ITSS05\ITSS05\obj\Debug\ITSS05.pdb
+D:\KNN91\3_OnThi\01-21\ITSS05\ITSS05\obj\Debug\ITSS05.FrmInventoryControl.resources

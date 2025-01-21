@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\KNN91\\3_OnThi\\01-16\\ITSS03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDA5669-B907-4E36-BD2B-9539CFF02595}|ITSS03\\ITSS03.csproj|d:\\knn91\\3_onthi\\01-16\\itss03\\itss03\\emergency_maintenance_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDA5669-B907-4E36-BD2B-9539CFF02595}|ITSS03\\ITSS03.csproj|solutionrelative:itss03\\emergency_maintenance_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDA5669-B907-4E36-BD2B-9539CFF02595}|ITSS03\\ITSS03.csproj|d:\\knn91\\3_onthi\\01-16\\itss03\\itss03\\emergency_maintenance_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BDA5669-B907-4E36-BD2B-9539CFF02595}|ITSS03\\ITSS03.csproj|solutionrelative:itss03\\emergency_maintenance_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDA5669-B907-4E36-BD2B-9539CFF02595}|ITSS03\\ITSS03.csproj|d:\\knn91\\3_onthi\\01-16\\itss03\\itss03\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDA5669-B907-4E36-BD2B-9539CFF02595}|ITSS03\\ITSS03.csproj|solutionrelative:itss03\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDA5669-B907-4E36-BD2B-9539CFF02595}|ITSS03\\ITSS03.csproj|d:\\knn91\\3_onthi\\01-16\\itss03\\itss03\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDA5669-B907-4E36-BD2B-9539CFF02595}|ITSS03\\ITSS03.csproj|solutionrelative:itss03\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDA5669-B907-4E36-BD2B-9539CFF02595}|ITSS03\\ITSS03.csproj|d:\\knn91\\3_onthi\\01-16\\itss03\\itss03\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1BDA5669-B907-4E36-BD2B-9539CFF02595}|ITSS03\\ITSS03.csproj|solutionrelative:itss03\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDA5669-B907-4E36-BD2B-9539CFF02595}|ITSS03\\ITSS03.csproj|d:\\knn91\\3_onthi\\01-16\\itss03\\itss03\\login_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDA5669-B907-4E36-BD2B-9539CFF02595}|ITSS03\\ITSS03.csproj|solutionrelative:itss03\\login_data.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "login_data.cs",
+              "DocumentMoniker": "D:\\KNN91\\3_OnThi\\01-16\\ITSS03\\ITSS03\\login_data.cs",
+              "RelativeDocumentMoniker": "ITSS03\\login_data.cs",
+              "ToolTip": "D:\\KNN91\\3_OnThi\\01-16\\ITSS03\\ITSS03\\login_data.cs",
+              "RelativeToolTip": "ITSS03\\login_data.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:57:44.815Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Emergency_Maintenance_Management.cs",
+              "DocumentMoniker": "D:\\KNN91\\3_OnThi\\01-16\\ITSS03\\ITSS03\\Emergency_Maintenance_Management.cs",
+              "RelativeDocumentMoniker": "ITSS03\\Emergency_Maintenance_Management.cs",
+              "ToolTip": "D:\\KNN91\\3_OnThi\\01-16\\ITSS03\\ITSS03\\Emergency_Maintenance_Management.cs",
+              "RelativeToolTip": "ITSS03\\Emergency_Maintenance_Management.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAEwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:10:51.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "D:\\KNN91\\3_OnThi\\01-16\\ITSS03\\ITSS03\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "ITSS03\\Login.Designer.cs",
+              "ToolTip": "D:\\KNN91\\3_OnThi\\01-16\\ITSS03\\ITSS03\\Login.Designer.cs",
+              "RelativeToolTip": "ITSS03\\Login.Designer.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAD4vzMAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:08:00.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Emergency_Maintenance_Management.cs [Design]",
+              "DocumentMoniker": "D:\\KNN91\\3_OnThi\\01-16\\ITSS03\\ITSS03\\Emergency_Maintenance_Management.cs",
+              "RelativeDocumentMoniker": "ITSS03\\Emergency_Maintenance_Management.cs",
+              "ToolTip": "D:\\KNN91\\3_OnThi\\01-16\\ITSS03\\ITSS03\\Emergency_Maintenance_Management.cs [Design]",
+              "RelativeToolTip": "ITSS03\\Emergency_Maintenance_Management.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T16:00:58.775Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\KNN91\\3_OnThi\\01-16\\ITSS03\\ITSS03\\Login.cs",
+              "RelativeDocumentMoniker": "ITSS03\\Login.cs",
+              "ToolTip": "D:\\KNN91\\3_OnThi\\01-16\\ITSS03\\ITSS03\\Login.cs",
+              "RelativeToolTip": "ITSS03\\Login.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAswE8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:44:52.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\KNN91\\3_OnThi\\01-16\\ITSS03\\ITSS03\\Login.cs",
+              "RelativeDocumentMoniker": "ITSS03\\Login.cs",
+              "ToolTip": "D:\\KNN91\\3_OnThi\\01-16\\ITSS03\\ITSS03\\Login.cs [Design]",
+              "RelativeToolTip": "ITSS03\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-16T15:41:37.905Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

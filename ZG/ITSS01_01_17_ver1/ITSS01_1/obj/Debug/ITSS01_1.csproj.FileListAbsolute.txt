@@ -1,0 +1,11 @@
+D:\KNN91\3_OnThi\01-17\ITSS01_1\ITSS01_1\bin\Debug\ITSS01_1.exe.config
+D:\KNN91\3_OnThi\01-17\ITSS01_1\ITSS01_1\bin\Debug\ITSS01_1.exe
+D:\KNN91\3_OnThi\01-17\ITSS01_1\ITSS01_1\bin\Debug\ITSS01_1.pdb
+D:\KNN91\3_OnThi\01-17\ITSS01_1\ITSS01_1\obj\Debug\ITSS01_1.csproj.AssemblyReference.cache
+D:\KNN91\3_OnThi\01-17\ITSS01_1\ITSS01_1\obj\Debug\ITSS01_1.Form1.resources
+D:\KNN91\3_OnThi\01-17\ITSS01_1\ITSS01_1\obj\Debug\ITSS01_1.Properties.Resources.resources
+D:\KNN91\3_OnThi\01-17\ITSS01_1\ITSS01_1\obj\Debug\ITSS01_1.csproj.GenerateResource.cache
+D:\KNN91\3_OnThi\01-17\ITSS01_1\ITSS01_1\obj\Debug\ITSS01_1.csproj.CoreCompileInputs.cache
+D:\KNN91\3_OnThi\01-17\ITSS01_1\ITSS01_1\obj\Debug\ITSS01_1.exe
+D:\KNN91\3_OnThi\01-17\ITSS01_1\ITSS01_1\obj\Debug\ITSS01_1.pdb
+D:\KNN91\3_OnThi\01-17\ITSS01_1\ITSS01_1\obj\Debug\ITSS01_1.FormOrder.resources

@@ -1,0 +1,10 @@
+D:\KNN91\3_OnThi\01-17\ITSS01\ITSS01\obj\Debug\ITSS01.csproj.AssemblyReference.cache
+D:\KNN91\3_OnThi\01-17\ITSS01\ITSS01\obj\Debug\ITSS01.Form1.resources
+D:\KNN91\3_OnThi\01-17\ITSS01\ITSS01\obj\Debug\ITSS01.Properties.Resources.resources
+D:\KNN91\3_OnThi\01-17\ITSS01\ITSS01\obj\Debug\ITSS01.csproj.GenerateResource.cache
+D:\KNN91\3_OnThi\01-17\ITSS01\ITSS01\obj\Debug\ITSS01.csproj.CoreCompileInputs.cache
+D:\KNN91\3_OnThi\01-17\ITSS01\ITSS01\bin\Debug\ITSS01.exe.config
+D:\KNN91\3_OnThi\01-17\ITSS01\ITSS01\bin\Debug\ITSS01.exe
+D:\KNN91\3_OnThi\01-17\ITSS01\ITSS01\bin\Debug\ITSS01.pdb
+D:\KNN91\3_OnThi\01-17\ITSS01\ITSS01\obj\Debug\ITSS01.exe
+D:\KNN91\3_OnThi\01-17\ITSS01\ITSS01\obj\Debug\ITSS01.pdb
