@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\huuth\\Downloads\\Compressed\\net\\MODULE2_KNN\\ITSS04\\ITSS04\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2AD158-DD51-46C9-B5B6-4C5EB021EC89}|ITSS04\\ITSS04.csproj|C:\\Users\\huuth\\Downloads\\Compressed\\net\\MODULE2_KNN\\ITSS04\\ITSS04\\itss04\\wasehouse_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2AD158-DD51-46C9-B5B6-4C5EB021EC89}|ITSS04\\ITSS04.csproj|solutionrelative:itss04\\wasehouse_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2AD158-DD51-46C9-B5B6-4C5EB021EC89}|ITSS04\\ITSS04.csproj|C:\\Users\\huuth\\Downloads\\Compressed\\net\\MODULE2_KNN\\ITSS04\\ITSS04\\itss04\\wasehouse_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D2AD158-DD51-46C9-B5B6-4C5EB021EC89}|ITSS04\\ITSS04.csproj|solutionrelative:itss04\\wasehouse_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2AD158-DD51-46C9-B5B6-4C5EB021EC89}|ITSS04\\ITSS04.csproj|C:\\Users\\huuth\\Downloads\\Compressed\\net\\MODULE2_KNN\\ITSS04\\ITSS04\\itss04\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2AD158-DD51-46C9-B5B6-4C5EB021EC89}|ITSS04\\ITSS04.csproj|solutionrelative:itss04\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2AD158-DD51-46C9-B5B6-4C5EB021EC89}|ITSS04\\ITSS04.csproj|C:\\Users\\huuth\\Downloads\\Compressed\\net\\MODULE2_KNN\\ITSS04\\ITSS04\\itss04\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D2AD158-DD51-46C9-B5B6-4C5EB021EC89}|ITSS04\\ITSS04.csproj|solutionrelative:itss04\\update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2AD158-DD51-46C9-B5B6-4C5EB021EC89}|ITSS04\\ITSS04.csproj|c:\\users\\huuth\\downloads\\compressed\\net\\module2_knn\\itss04\\itss04\\itss04\\inventory_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2AD158-DD51-46C9-B5B6-4C5EB021EC89}|ITSS04\\ITSS04.csproj|solutionrelative:itss04\\inventory_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2AD158-DD51-46C9-B5B6-4C5EB021EC89}|ITSS04\\ITSS04.csproj|C:\\Users\\huuth\\Downloads\\Compressed\\net\\MODULE2_KNN\\ITSS04\\ITSS04\\itss04\\inventory_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3D2AD158-DD51-46C9-B5B6-4C5EB021EC89}|ITSS04\\ITSS04.csproj|solutionrelative:itss04\\inventory_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2AD158-DD51-46C9-B5B6-4C5EB021EC89}|ITSS04\\ITSS04.csproj|c:\\users\\huuth\\downloads\\compressed\\net\\module2_knn\\itss04\\itss04\\itss04\\sql_cf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2AD158-DD51-46C9-B5B6-4C5EB021EC89}|ITSS04\\ITSS04.csproj|solutionrelative:itss04\\sql_cf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3D2AD158-DD51-46C9-B5B6-4C5EB021EC89}|ITSS04\\ITSS04.csproj|C:\\Users\\huuth\\Downloads\\Compressed\\net\\MODULE2_KNN\\ITSS04\\ITSS04\\itss04\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3D2AD158-DD51-46C9-B5B6-4C5EB021EC89}|ITSS04\\ITSS04.csproj|solutionrelative:itss04\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "sql_cf.cs",
+              "DocumentMoniker": "C:\\Users\\huuth\\Downloads\\Compressed\\net\\MODULE2_KNN\\ITSS04\\ITSS04\\ITSS04\\sql_cf.cs",
+              "RelativeDocumentMoniker": "ITSS04\\sql_cf.cs",
+              "ToolTip": "C:\\Users\\huuth\\Downloads\\Compressed\\net\\MODULE2_KNN\\ITSS04\\ITSS04\\ITSS04\\sql_cf.cs",
+              "RelativeToolTip": "ITSS04\\sql_cf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T14:28:50.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "update.cs",
+              "DocumentMoniker": "C:\\Users\\huuth\\Downloads\\Compressed\\net\\MODULE2_KNN\\ITSS04\\ITSS04\\ITSS04\\update.cs",
+              "RelativeDocumentMoniker": "ITSS04\\update.cs",
+              "ToolTip": "C:\\Users\\huuth\\Downloads\\Compressed\\net\\MODULE2_KNN\\ITSS04\\ITSS04\\ITSS04\\update.cs",
+              "RelativeToolTip": "ITSS04\\update.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAWwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T09:19:33.08Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Inventory_Management.cs",
+              "DocumentMoniker": "C:\\Users\\huuth\\Downloads\\Compressed\\net\\MODULE2_KNN\\ITSS04\\ITSS04\\ITSS04\\Inventory_Management.cs",
+              "RelativeDocumentMoniker": "ITSS04\\Inventory_Management.cs",
+              "ToolTip": "C:\\Users\\huuth\\Downloads\\Compressed\\net\\MODULE2_KNN\\ITSS04\\ITSS04\\ITSS04\\Inventory_Management.cs",
+              "RelativeToolTip": "ITSS04\\Inventory_Management.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAWwB0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T03:16:24.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "update.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\huuth\\Downloads\\Compressed\\net\\MODULE2_KNN\\ITSS04\\ITSS04\\ITSS04\\update.cs",
+              "RelativeDocumentMoniker": "ITSS04\\update.cs",
+              "ToolTip": "C:\\Users\\huuth\\Downloads\\Compressed\\net\\MODULE2_KNN\\ITSS04\\ITSS04\\ITSS04\\update.cs [Design]",
+              "RelativeToolTip": "ITSS04\\update.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T03:11:32.416Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Storage.cs",
+              "DocumentMoniker": "C:\\Users\\huuth\\Downloads\\Compressed\\net\\MODULE2_KNN\\ITSS04\\ITSS04\\ITSS04\\Storage.cs",
+              "RelativeDocumentMoniker": "ITSS04\\Storage.cs",
+              "ToolTip": "C:\\Users\\huuth\\Downloads\\Compressed\\net\\MODULE2_KNN\\ITSS04\\ITSS04\\ITSS04\\Storage.cs",
+              "RelativeToolTip": "ITSS04\\Storage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T03:34:19.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Inventory_Management.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\huuth\\Downloads\\Compressed\\net\\MODULE2_KNN\\ITSS04\\ITSS04\\ITSS04\\Inventory_Management.cs",
+              "RelativeDocumentMoniker": "ITSS04\\Inventory_Management.cs",
+              "ToolTip": "C:\\Users\\huuth\\Downloads\\Compressed\\net\\MODULE2_KNN\\ITSS04\\ITSS04\\ITSS04\\Inventory_Management.cs [Design]",
+              "RelativeToolTip": "ITSS04\\Inventory_Management.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T03:16:19.867Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Wasehouse_Management.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\huuth\\Downloads\\Compressed\\net\\MODULE2_KNN\\ITSS04\\ITSS04\\ITSS04\\Wasehouse_Management.cs",
+              "RelativeDocumentMoniker": "ITSS04\\Wasehouse_Management.cs",
+              "ToolTip": "C:\\Users\\huuth\\Downloads\\Compressed\\net\\MODULE2_KNN\\ITSS04\\ITSS04\\ITSS04\\Wasehouse_Management.cs [Design]",
+              "RelativeToolTip": "ITSS04\\Wasehouse_Management.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T03:11:21.26Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Wasehouse_Management.cs",
+              "DocumentMoniker": "C:\\Users\\huuth\\Downloads\\Compressed\\net\\MODULE2_KNN\\ITSS04\\ITSS04\\ITSS04\\Wasehouse_Management.cs",
+              "RelativeDocumentMoniker": "ITSS04\\Wasehouse_Management.cs",
+              "ToolTip": "C:\\Users\\huuth\\Downloads\\Compressed\\net\\MODULE2_KNN\\ITSS04\\ITSS04\\ITSS04\\Wasehouse_Management.cs",
+              "RelativeToolTip": "ITSS04\\Wasehouse_Management.cs",
+              "ViewState": "AgIAAOkAAAAAAAAAAAAAAGwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-09T15:45:58.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

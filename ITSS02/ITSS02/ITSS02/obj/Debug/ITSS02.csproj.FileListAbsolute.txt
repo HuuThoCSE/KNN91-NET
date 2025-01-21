@@ -1,0 +1,24 @@
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS02\ITSS02\ITSS02\bin\Debug\ITSS02.exe.config
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS02\ITSS02\ITSS02\bin\Debug\ITSS02.exe
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS02\ITSS02\ITSS02\bin\Debug\ITSS02.pdb
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS02\ITSS02\ITSS02\obj\Debug\ITSS02.csproj.AssemblyReference.cache
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS02\ITSS02\ITSS02\obj\Debug\ITSS02.form_login.resources
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS02\ITSS02\ITSS02\obj\Debug\ITSS02.Properties.Resources.resources
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS02\ITSS02\ITSS02\obj\Debug\ITSS02.csproj.GenerateResource.cache
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS02\ITSS02\ITSS02\obj\Debug\ITSS02.csproj.CoreCompileInputs.cache
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS02\ITSS02\ITSS02\obj\Debug\ITSS02.exe
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS02\ITSS02\ITSS02\obj\Debug\ITSS02.pdb
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS02\ITSS02\ITSS02\obj\Debug\ITSS02.Emergency_management.resources
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS02\ITSS02\ITSS02\obj\Debug\ITSS02.EmergencyMaintenanceRequest.resources
+D:\Ôn kỹ năng nghề\MODULE2\ITSS02\ITSS02\ITSS02\bin\Debug\ITSS02.exe.config
+D:\Ôn kỹ năng nghề\MODULE2\ITSS02\ITSS02\ITSS02\bin\Debug\ITSS02.exe
+D:\Ôn kỹ năng nghề\MODULE2\ITSS02\ITSS02\ITSS02\bin\Debug\ITSS02.pdb
+D:\Ôn kỹ năng nghề\MODULE2\ITSS02\ITSS02\ITSS02\obj\Debug\ITSS02.csproj.AssemblyReference.cache
+D:\Ôn kỹ năng nghề\MODULE2\ITSS02\ITSS02\ITSS02\obj\Debug\ITSS02.EmergencyMaintenanceRequest.resources
+D:\Ôn kỹ năng nghề\MODULE2\ITSS02\ITSS02\ITSS02\obj\Debug\ITSS02.Emergency_management.resources
+D:\Ôn kỹ năng nghề\MODULE2\ITSS02\ITSS02\ITSS02\obj\Debug\ITSS02.form_login.resources
+D:\Ôn kỹ năng nghề\MODULE2\ITSS02\ITSS02\ITSS02\obj\Debug\ITSS02.Properties.Resources.resources
+D:\Ôn kỹ năng nghề\MODULE2\ITSS02\ITSS02\ITSS02\obj\Debug\ITSS02.csproj.GenerateResource.cache
+D:\Ôn kỹ năng nghề\MODULE2\ITSS02\ITSS02\ITSS02\obj\Debug\ITSS02.csproj.CoreCompileInputs.cache
+D:\Ôn kỹ năng nghề\MODULE2\ITSS02\ITSS02\ITSS02\obj\Debug\ITSS02.exe
+D:\Ôn kỹ năng nghề\MODULE2\ITSS02\ITSS02\ITSS02\obj\Debug\ITSS02.pdb

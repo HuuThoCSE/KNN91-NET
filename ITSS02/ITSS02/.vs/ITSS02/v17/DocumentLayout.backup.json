@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u00D4n k\u1EF9 n\u0103ng ngh\u1EC1\\MODULE2\\MODULE2_KNN\\ITSS02\\ITSS02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE05C5A-05F9-4997-8244-F37E7F74F709}|ITSS02\\ITSS02.csproj|D:\\\u00D4n k\u1EF9 n\u0103ng ngh\u1EC1\\MODULE2\\MODULE2_KNN\\ITSS02\\ITSS02\\itss02\\emergency_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FE05C5A-05F9-4997-8244-F37E7F74F709}|ITSS02\\ITSS02.csproj|solutionrelative:itss02\\emergency_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE05C5A-05F9-4997-8244-F37E7F74F709}|ITSS02\\ITSS02.csproj|D:\\\u00D4n k\u1EF9 n\u0103ng ngh\u1EC1\\MODULE2\\MODULE2_KNN\\ITSS02\\ITSS02\\itss02\\emergency_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE05C5A-05F9-4997-8244-F37E7F74F709}|ITSS02\\ITSS02.csproj|solutionrelative:itss02\\emergency_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE05C5A-05F9-4997-8244-F37E7F74F709}|ITSS02\\ITSS02.csproj|D:\\\u00D4n k\u1EF9 n\u0103ng ngh\u1EC1\\MODULE2\\MODULE2_KNN\\ITSS02\\ITSS02\\itss02\\emergencymaintenancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE05C5A-05F9-4997-8244-F37E7F74F709}|ITSS02\\ITSS02.csproj|solutionrelative:itss02\\emergencymaintenancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE05C5A-05F9-4997-8244-F37E7F74F709}|ITSS02\\ITSS02.csproj|D:\\\u00D4n k\u1EF9 n\u0103ng ngh\u1EC1\\MODULE2\\MODULE2_KNN\\ITSS02\\ITSS02\\itss02\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FE05C5A-05F9-4997-8244-F37E7F74F709}|ITSS02\\ITSS02.csproj|solutionrelative:itss02\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE05C5A-05F9-4997-8244-F37E7F74F709}|ITSS02\\ITSS02.csproj|D:\\\u00D4n k\u1EF9 n\u0103ng ngh\u1EC1\\MODULE2\\MODULE2_KNN\\ITSS02\\ITSS02\\itss02\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE05C5A-05F9-4997-8244-F37E7F74F709}|ITSS02\\ITSS02.csproj|solutionrelative:itss02\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE05C5A-05F9-4997-8244-F37E7F74F709}|ITSS02\\ITSS02.csproj|d:\\\u00F4n k\u1EF9 n\u0103ng ngh\u1EC1\\module2\\module2_knn\\itss02\\itss02\\itss02\\emergencymaintenancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4FE05C5A-05F9-4997-8244-F37E7F74F709}|ITSS02\\ITSS02.csproj|solutionrelative:itss02\\emergencymaintenancerequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Emergency_management.cs",
+              "DocumentMoniker": "D:\\\u00D4n k\u1EF9 n\u0103ng ngh\u1EC1\\MODULE2\\MODULE2_KNN\\ITSS02\\ITSS02\\ITSS02\\Emergency_management.cs",
+              "RelativeDocumentMoniker": "ITSS02\\Emergency_management.cs",
+              "ToolTip": "D:\\\u00D4n k\u1EF9 n\u0103ng ngh\u1EC1\\MODULE2\\MODULE2_KNN\\ITSS02\\ITSS02\\ITSS02\\Emergency_management.cs",
+              "RelativeToolTip": "ITSS02\\Emergency_management.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAkwEgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:20:21.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmergencyMaintenanceRequest.cs [Design]",
+              "DocumentMoniker": "D:\\\u00D4n k\u1EF9 n\u0103ng ngh\u1EC1\\MODULE2\\MODULE2_KNN\\ITSS02\\ITSS02\\ITSS02\\EmergencyMaintenanceRequest.cs",
+              "RelativeDocumentMoniker": "ITSS02\\EmergencyMaintenanceRequest.cs",
+              "ToolTip": "D:\\\u00D4n k\u1EF9 n\u0103ng ngh\u1EC1\\MODULE2\\MODULE2_KNN\\ITSS02\\ITSS02\\ITSS02\\EmergencyMaintenanceRequest.cs [Design]",
+              "RelativeToolTip": "ITSS02\\EmergencyMaintenanceRequest.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:38:25.246Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmergencyMaintenanceRequest.cs",
+              "DocumentMoniker": "D:\\\u00D4n k\u1EF9 n\u0103ng ngh\u1EC1\\MODULE2\\MODULE2_KNN\\ITSS02\\ITSS02\\ITSS02\\EmergencyMaintenanceRequest.cs",
+              "RelativeDocumentMoniker": "ITSS02\\EmergencyMaintenanceRequest.cs",
+              "ToolTip": "D:\\\u00D4n k\u1EF9 n\u0103ng ngh\u1EC1\\MODULE2\\MODULE2_KNN\\ITSS02\\ITSS02\\ITSS02\\EmergencyMaintenanceRequest.cs",
+              "RelativeToolTip": "ITSS02\\EmergencyMaintenanceRequest.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAuwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:20:47.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Login.cs",
+              "DocumentMoniker": "D:\\\u00D4n k\u1EF9 n\u0103ng ngh\u1EC1\\MODULE2\\MODULE2_KNN\\ITSS02\\ITSS02\\ITSS02\\Login.cs",
+              "RelativeDocumentMoniker": "ITSS02\\Login.cs",
+              "ToolTip": "D:\\\u00D4n k\u1EF9 n\u0103ng ngh\u1EC1\\MODULE2\\MODULE2_KNN\\ITSS02\\ITSS02\\ITSS02\\Login.cs",
+              "RelativeToolTip": "ITSS02\\Login.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAMwFkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T07:19:42.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Emergency_management.cs [Design]",
+              "DocumentMoniker": "D:\\\u00D4n k\u1EF9 n\u0103ng ngh\u1EC1\\MODULE2\\MODULE2_KNN\\ITSS02\\ITSS02\\ITSS02\\Emergency_management.cs",
+              "RelativeDocumentMoniker": "ITSS02\\Emergency_management.cs",
+              "ToolTip": "D:\\\u00D4n k\u1EF9 n\u0103ng ngh\u1EC1\\MODULE2\\MODULE2_KNN\\ITSS02\\ITSS02\\ITSS02\\Emergency_management.cs [Design]",
+              "RelativeToolTip": "ITSS02\\Emergency_management.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:38:21.776Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\\u00D4n k\u1EF9 n\u0103ng ngh\u1EC1\\MODULE2\\MODULE2_KNN\\ITSS02\\ITSS02\\ITSS02\\Login.cs",
+              "RelativeDocumentMoniker": "ITSS02\\Login.cs",
+              "ToolTip": "D:\\\u00D4n k\u1EF9 n\u0103ng ngh\u1EC1\\MODULE2\\MODULE2_KNN\\ITSS02\\ITSS02\\ITSS02\\Login.cs [Design]",
+              "RelativeToolTip": "ITSS02\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-24T14:38:14.47Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

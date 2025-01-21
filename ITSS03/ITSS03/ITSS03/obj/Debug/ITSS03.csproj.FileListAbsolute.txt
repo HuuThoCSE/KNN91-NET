@@ -1,0 +1,36 @@
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS02\ITSS03\ITSS03\obj\Debug\ITSS03.csproj.AssemblyReference.cache
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS02\ITSS03\ITSS03\obj\Debug\ITSS03.Emergency_management.resources
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS02\ITSS03\ITSS03\obj\Debug\ITSS03.Login.resources
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS02\ITSS03\ITSS03\obj\Debug\ITSS03.Properties.Resources.resources
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS02\ITSS03\ITSS03\obj\Debug\ITSS03.csproj.GenerateResource.cache
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS02\ITSS03\ITSS03\obj\Debug\ITSS03.csproj.CoreCompileInputs.cache
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS02\ITSS03\ITSS03\bin\Debug\ITSS03.exe.config
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS02\ITSS03\ITSS03\bin\Debug\ITSS03.exe
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS02\ITSS03\ITSS03\bin\Debug\ITSS03.pdb
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS02\ITSS03\ITSS03\obj\Debug\ITSS03.exe
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS02\ITSS03\ITSS03\obj\Debug\ITSS03.pdb
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS02\ITSS03\ITSS03\obj\Debug\ITSS03.EmergencyMaintainanceRequestDetails.resources
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS03\ITSS03\ITSS03\bin\Debug\ITSS03.exe.config
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS03\ITSS03\ITSS03\bin\Debug\ITSS03.exe
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS03\ITSS03\ITSS03\bin\Debug\ITSS03.pdb
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS03\ITSS03\ITSS03\obj\Debug\ITSS03.csproj.AssemblyReference.cache
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS03\ITSS03\ITSS03\obj\Debug\ITSS03.EmergencyMaintainanceRequestDetails.resources
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS03\ITSS03\ITSS03\obj\Debug\ITSS03.Emergency_management.resources
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS03\ITSS03\ITSS03\obj\Debug\ITSS03.Login.resources
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS03\ITSS03\ITSS03\obj\Debug\ITSS03.Properties.Resources.resources
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS03\ITSS03\ITSS03\obj\Debug\ITSS03.csproj.GenerateResource.cache
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS03\ITSS03\ITSS03\obj\Debug\ITSS03.csproj.CoreCompileInputs.cache
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS03\ITSS03\ITSS03\obj\Debug\ITSS03.exe
+D:\KỸ NĂNG NGHỀ\ONTHI\Module2\ITSS03\ITSS03\ITSS03\obj\Debug\ITSS03.pdb
+D:\Ôn kỹ năng nghề\MODULE2\ITSS03\ITSS03\ITSS03\bin\Debug\ITSS03.exe.config
+D:\Ôn kỹ năng nghề\MODULE2\ITSS03\ITSS03\ITSS03\bin\Debug\ITSS03.exe
+D:\Ôn kỹ năng nghề\MODULE2\ITSS03\ITSS03\ITSS03\bin\Debug\ITSS03.pdb
+D:\Ôn kỹ năng nghề\MODULE2\ITSS03\ITSS03\ITSS03\obj\Debug\ITSS03.csproj.AssemblyReference.cache
+D:\Ôn kỹ năng nghề\MODULE2\ITSS03\ITSS03\ITSS03\obj\Debug\ITSS03.EmergencyMaintainanceRequestDetails.resources
+D:\Ôn kỹ năng nghề\MODULE2\ITSS03\ITSS03\ITSS03\obj\Debug\ITSS03.Emergency_management.resources
+D:\Ôn kỹ năng nghề\MODULE2\ITSS03\ITSS03\ITSS03\obj\Debug\ITSS03.Login.resources
+D:\Ôn kỹ năng nghề\MODULE2\ITSS03\ITSS03\ITSS03\obj\Debug\ITSS03.Properties.Resources.resources
+D:\Ôn kỹ năng nghề\MODULE2\ITSS03\ITSS03\ITSS03\obj\Debug\ITSS03.csproj.GenerateResource.cache
+D:\Ôn kỹ năng nghề\MODULE2\ITSS03\ITSS03\ITSS03\obj\Debug\ITSS03.csproj.CoreCompileInputs.cache
+D:\Ôn kỹ năng nghề\MODULE2\ITSS03\ITSS03\ITSS03\obj\Debug\ITSS03.exe
+D:\Ôn kỹ năng nghề\MODULE2\ITSS03\ITSS03\ITSS03\obj\Debug\ITSS03.pdb

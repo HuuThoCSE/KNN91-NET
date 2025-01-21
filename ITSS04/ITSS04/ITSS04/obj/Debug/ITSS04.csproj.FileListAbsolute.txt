@@ -1,0 +1,48 @@
+D:\KY NANG NGHE\ONTHI\Module2\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.csproj.AssemblyReference.cache
+D:\KY NANG NGHE\ONTHI\Module2\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.Form1.resources
+D:\KY NANG NGHE\ONTHI\Module2\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.Properties.Resources.resources
+D:\KY NANG NGHE\ONTHI\Module2\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.Wasehouse_Management.resources
+D:\KY NANG NGHE\ONTHI\Module2\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.csproj.GenerateResource.cache
+D:\KY NANG NGHE\ONTHI\Module2\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.csproj.CoreCompileInputs.cache
+D:\KY NANG NGHE\ONTHI\Module2\ITSS04\ITSS04\ITSS04\bin\Debug\ITSS04.exe.config
+D:\KY NANG NGHE\ONTHI\Module2\ITSS04\ITSS04\ITSS04\bin\Debug\ITSS04.exe
+D:\KY NANG NGHE\ONTHI\Module2\ITSS04\ITSS04\ITSS04\bin\Debug\ITSS04.pdb
+D:\KY NANG NGHE\ONTHI\Module2\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.exe
+D:\KY NANG NGHE\ONTHI\Module2\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.pdb
+D:\KY NANG NGHE\ONTHI\Module2\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.update.resources
+D:\Kỹ Năng Nghề\ONTHI\Module2\ITSS04\ITSS04\ITSS04\bin\Debug\ITSS04.exe.config
+D:\Kỹ Năng Nghề\ONTHI\Module2\ITSS04\ITSS04\ITSS04\bin\Debug\ITSS04.exe
+D:\Kỹ Năng Nghề\ONTHI\Module2\ITSS04\ITSS04\ITSS04\bin\Debug\ITSS04.pdb
+D:\Kỹ Năng Nghề\ONTHI\Module2\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.csproj.AssemblyReference.cache
+D:\Kỹ Năng Nghề\ONTHI\Module2\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.Form1.resources
+D:\Kỹ Năng Nghề\ONTHI\Module2\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.Properties.Resources.resources
+D:\Kỹ Năng Nghề\ONTHI\Module2\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.update.resources
+D:\Kỹ Năng Nghề\ONTHI\Module2\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.Wasehouse_Management.resources
+D:\Kỹ Năng Nghề\ONTHI\Module2\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.csproj.GenerateResource.cache
+D:\Kỹ Năng Nghề\ONTHI\Module2\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.csproj.CoreCompileInputs.cache
+D:\Kỹ Năng Nghề\ONTHI\Module2\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.exe
+D:\Kỹ Năng Nghề\ONTHI\Module2\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.pdb
+D:\Ôn kỹ năng nghề\MODULE2\ITSS04\ITSS04\ITSS04\bin\Debug\ITSS04.exe.config
+D:\Ôn kỹ năng nghề\MODULE2\ITSS04\ITSS04\ITSS04\bin\Debug\ITSS04.exe
+D:\Ôn kỹ năng nghề\MODULE2\ITSS04\ITSS04\ITSS04\bin\Debug\ITSS04.pdb
+D:\Ôn kỹ năng nghề\MODULE2\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.csproj.AssemblyReference.cache
+D:\Ôn kỹ năng nghề\MODULE2\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.Form1.resources
+D:\Ôn kỹ năng nghề\MODULE2\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.Properties.Resources.resources
+D:\Ôn kỹ năng nghề\MODULE2\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.update.resources
+D:\Ôn kỹ năng nghề\MODULE2\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.Wasehouse_Management.resources
+D:\Ôn kỹ năng nghề\MODULE2\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.csproj.GenerateResource.cache
+D:\Ôn kỹ năng nghề\MODULE2\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.csproj.CoreCompileInputs.cache
+D:\Ôn kỹ năng nghề\MODULE2\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.exe
+D:\Ôn kỹ năng nghề\MODULE2\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.pdb
+D:\Ôn kỹ năng nghề\MODULE2\MODULE2_KNN\ITSS04\ITSS04\ITSS04\bin\Debug\ITSS04.exe.config
+D:\Ôn kỹ năng nghề\MODULE2\MODULE2_KNN\ITSS04\ITSS04\ITSS04\bin\Debug\ITSS04.exe
+D:\Ôn kỹ năng nghề\MODULE2\MODULE2_KNN\ITSS04\ITSS04\ITSS04\bin\Debug\ITSS04.pdb
+D:\Ôn kỹ năng nghề\MODULE2\MODULE2_KNN\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.csproj.AssemblyReference.cache
+D:\Ôn kỹ năng nghề\MODULE2\MODULE2_KNN\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.Form1.resources
+D:\Ôn kỹ năng nghề\MODULE2\MODULE2_KNN\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.Properties.Resources.resources
+D:\Ôn kỹ năng nghề\MODULE2\MODULE2_KNN\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.update.resources
+D:\Ôn kỹ năng nghề\MODULE2\MODULE2_KNN\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.Wasehouse_Management.resources
+D:\Ôn kỹ năng nghề\MODULE2\MODULE2_KNN\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.csproj.GenerateResource.cache
+D:\Ôn kỹ năng nghề\MODULE2\MODULE2_KNN\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.csproj.CoreCompileInputs.cache
+D:\Ôn kỹ năng nghề\MODULE2\MODULE2_KNN\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.exe
+D:\Ôn kỹ năng nghề\MODULE2\MODULE2_KNN\ITSS04\ITSS04\ITSS04\obj\Debug\ITSS04.pdb
