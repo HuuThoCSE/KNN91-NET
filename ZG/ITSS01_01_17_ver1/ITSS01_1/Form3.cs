@@ -30,7 +30,7 @@ namespace ITSS01_1
             try
             {
                 conn = new SqlConnection();
-                conn.ConnectionString = "server=ThisPC\\MSSL2022; database=ITS01DATA; uid=sa; pwd=123456";
+                conn.ConnectionString = "server=thisPC\\THISPC; database=ITS01DATA; uid=sa; pwd=123456";
                 conn.Open();
             }
             catch

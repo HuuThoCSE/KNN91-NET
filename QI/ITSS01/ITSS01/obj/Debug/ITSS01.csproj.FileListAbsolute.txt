@@ -1,0 +1,11 @@
+D:\Github\KNN91-NET\QI\ITSS01\LeNguyenQuangBinh_21022010\ITSS01\bin\Debug\LeNguyenQuangBinh_21022010.exe.config
+D:\Github\KNN91-NET\QI\ITSS01\LeNguyenQuangBinh_21022010\ITSS01\bin\Debug\LeNguyenQuangBinh_21022010.exe
+D:\Github\KNN91-NET\QI\ITSS01\LeNguyenQuangBinh_21022010\ITSS01\bin\Debug\LeNguyenQuangBinh_21022010.pdb
+D:\Github\KNN91-NET\QI\ITSS01\LeNguyenQuangBinh_21022010\ITSS01\obj\Debug\ITSS01.csproj.AssemblyReference.cache
+D:\Github\KNN91-NET\QI\ITSS01\LeNguyenQuangBinh_21022010\ITSS01\obj\Debug\LeNguyenQuangBinh_21022010.InvenForm.resources
+D:\Github\KNN91-NET\QI\ITSS01\LeNguyenQuangBinh_21022010\ITSS01\obj\Debug\LeNguyenQuangBinh_21022010.Properties.Resources.resources
+D:\Github\KNN91-NET\QI\ITSS01\LeNguyenQuangBinh_21022010\ITSS01\obj\Debug\LeNguyenQuangBinh_21022010.PurchaseOrder.resources
+D:\Github\KNN91-NET\QI\ITSS01\LeNguyenQuangBinh_21022010\ITSS01\obj\Debug\ITSS01.csproj.GenerateResource.cache
+D:\Github\KNN91-NET\QI\ITSS01\LeNguyenQuangBinh_21022010\ITSS01\obj\Debug\ITSS01.csproj.CoreCompileInputs.cache
+D:\Github\KNN91-NET\QI\ITSS01\LeNguyenQuangBinh_21022010\ITSS01\obj\Debug\LeNguyenQuangBinh_21022010.exe
+D:\Github\KNN91-NET\QI\ITSS01\LeNguyenQuangBinh_21022010\ITSS01\obj\Debug\LeNguyenQuangBinh_21022010.pdb

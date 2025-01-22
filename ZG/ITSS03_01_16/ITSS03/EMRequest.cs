@@ -29,7 +29,7 @@ namespace ITSS03
             try
             {
                 conn = new SqlConnection();
-                conn.ConnectionString = "server=thisPC\\THISPC;uid=sa;pwd=123456;database=ITS03DATA"
+                conn.ConnectionString = "server=thisPC\\THISPC;uid=sa;pwd=123456;database=ITS03DATA";
                 conn.Open();
                 return true;
             } catch
@@ -65,7 +65,8 @@ namespace ITSS03
                     if(reader_asset["EMSTARTDATE"].ToString() != "")
                     {
                         dtp_start.Text = reader_asset["EMSTARTDATE"].ToString().Trim();
-                    } else
+                    } 
+                    else
                     {
                         dtp_start.CustomFormat = "-/-/-";
                         dtp_start.Format = DateTimePickerFormat.Custom;
@@ -74,7 +75,8 @@ namespace ITSS03
                     if (reader_asset["EMENDATE"].ToString() != "")
                     {
                         dtp_comp.Text = reader_asset["EMENDATE"].ToString();
-                    } else
+                    } 
+                    else
                     {
                         dtp_comp.CustomFormat = "-/-/-";
                         dtp_comp.Format = DateTimePickerFormat.Custom;
@@ -83,9 +85,26 @@ namespace ITSS03
                 }
                 reader_asset.Close();
 
-                string select_part = "select * from PARTS";
-                SqlCommand cmd_part = new SqlCommand(select_part, conn);
-                SqlDataReader 
+                string qr_part = "select ID, NAME from PARTS";
+                //SqlDataAdapter sda = new SqlDataAdapter(qr_part, conn);
+                //DataTable dt = new DataTable();
+                //sda.Fill(dt);
+                //cbPart.DataSource = dt;
+                //cbPart.ValueMember = "ID";
+                //cbPart.DisplayMember = "Name";
+
+                SqlCommand cmd = new SqlCommand(qr_part, conn);
+                SqlDataReader sdr = cmd.ExecuteReader();
+                DataTable dt = new DataTable();
+                dt.Load(sdr);
+                if(dt.Rows.Count > 0)
+                {
+                    cbPart.DataSource = dt;
+                    cbPart.ValueMember = "ID";
+                    cbPart.DisplayMember = "Name";
+                }
+                sdr.Close();
+
             }
         }
     }

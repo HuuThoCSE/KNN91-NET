@@ -2,6 +2,7 @@
 GO
 USE ITS03DATA
 GO
+
 CREATE TABLE DEPARTMENTS
 (
 	ID INT PRIMARY KEY,
@@ -160,7 +161,6 @@ insert into CHANGEDPARTS values
 
 -- display asset list for admin 
 -- request date chưa có enddate (null)
-
 select  ASSETSN ,ASSETNAME, EMREPORTDATE as 'Request Date' ,  LASTNAME +' '+ FIRSTNAME as 'Employee Full Name',de.NAME, emm.id  
 from ASSETS ass
 join EMERGENCYMAINTENANCES emm on emm.ASSETID = ass.ID

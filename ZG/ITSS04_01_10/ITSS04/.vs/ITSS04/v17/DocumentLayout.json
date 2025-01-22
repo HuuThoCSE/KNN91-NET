@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\KNN91\\3_OnThi\\01-10\\ITSS04\\ITSS04\\",
+  "WorkspaceRootPath": "D:\\Github\\KNN91-NET\\ZG\\ITSS04_01_10\\ITSS04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BCC60597-6121-4DEA-B34C-22438A4204B1}|ITSS04\\ITSS04.csproj|d:\\knn91\\3_onthi\\01-10\\itss04\\itss04\\itss04\\inventory_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BCC60597-6121-4DEA-B34C-22438A4204B1}|ITSS04\\ITSS04.csproj|solutionrelative:itss04\\inventory_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{BCC60597-6121-4DEA-B34C-22438A4204B1}|ITSS04\\ITSS04.csproj|d:\\github\\knn91-net\\zg\\itss04_01_10\\itss04\\itss04\\wasehouse_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC60597-6121-4DEA-B34C-22438A4204B1}|ITSS04\\ITSS04.csproj|solutionrelative:itss04\\wasehouse_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCC60597-6121-4DEA-B34C-22438A4204B1}|ITSS04\\ITSS04.csproj|d:\\knn91\\3_onthi\\01-10\\itss04\\itss04\\itss04\\wasehouse_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BCC60597-6121-4DEA-B34C-22438A4204B1}|ITSS04\\ITSS04.csproj|D:\\Github\\KNN91-NET\\ZG\\ITSS04_01_10\\ITSS04\\itss04\\wasehouse_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BCC60597-6121-4DEA-B34C-22438A4204B1}|ITSS04\\ITSS04.csproj|solutionrelative:itss04\\wasehouse_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCC60597-6121-4DEA-B34C-22438A4204B1}|ITSS04\\ITSS04.csproj|d:\\knn91\\3_onthi\\01-10\\itss04\\itss04\\itss04\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BCC60597-6121-4DEA-B34C-22438A4204B1}|ITSS04\\ITSS04.csproj|D:\\Github\\KNN91-NET\\ZG\\ITSS04_01_10\\ITSS04\\itss04\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCC60597-6121-4DEA-B34C-22438A4204B1}|ITSS04\\ITSS04.csproj|solutionrelative:itss04\\storage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCC60597-6121-4DEA-B34C-22438A4204B1}|ITSS04\\ITSS04.csproj|d:\\knn91\\3_onthi\\01-10\\itss04\\itss04\\itss04\\inventory_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{BCC60597-6121-4DEA-B34C-22438A4204B1}|ITSS04\\ITSS04.csproj|solutionrelative:itss04\\inventory_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{BCC60597-6121-4DEA-B34C-22438A4204B1}|ITSS04\\ITSS04.csproj|d:\\github\\knn91-net\\zg\\itss04_01_10\\itss04\\itss04\\inventory_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCC60597-6121-4DEA-B34C-22438A4204B1}|ITSS04\\ITSS04.csproj|solutionrelative:itss04\\inventory_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BCC60597-6121-4DEA-B34C-22438A4204B1}|ITSS04\\ITSS04.csproj|d:\\knn91\\3_onthi\\01-10\\itss04\\itss04\\itss04\\conn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BCC60597-6121-4DEA-B34C-22438A4204B1}|ITSS04\\ITSS04.csproj|D:\\Github\\KNN91-NET\\ZG\\ITSS04_01_10\\ITSS04\\itss04\\conn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BCC60597-6121-4DEA-B34C-22438A4204B1}|ITSS04\\ITSS04.csproj|solutionrelative:itss04\\conn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCC60597-6121-4DEA-B34C-22438A4204B1}|ITSS04\\ITSS04.csproj|D:\\Github\\KNN91-NET\\ZG\\ITSS04_01_10\\ITSS04\\itss04\\inventory_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BCC60597-6121-4DEA-B34C-22438A4204B1}|ITSS04\\ITSS04.csproj|solutionrelative:itss04\\inventory_management.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,15 +34,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Wasehouse_Management.cs",
+              "DocumentMoniker": "D:\\Github\\KNN91-NET\\ZG\\ITSS04_01_10\\ITSS04\\ITSS04\\Wasehouse_Management.cs",
+              "RelativeDocumentMoniker": "ITSS04\\Wasehouse_Management.cs",
+              "ToolTip": "D:\\Github\\KNN91-NET\\ZG\\ITSS04_01_10\\ITSS04\\ITSS04\\Wasehouse_Management.cs",
+              "RelativeToolTip": "ITSS04\\Wasehouse_Management.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T00:13:56.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "conn.cs",
-              "DocumentMoniker": "D:\\KNN91\\3_OnThi\\01-10\\ITSS04\\ITSS04\\ITSS04\\conn.cs",
+              "DocumentMoniker": "D:\\Github\\KNN91-NET\\ZG\\ITSS04_01_10\\ITSS04\\ITSS04\\conn.cs",
               "RelativeDocumentMoniker": "ITSS04\\conn.cs",
-              "ToolTip": "D:\\KNN91\\3_OnThi\\01-10\\ITSS04\\ITSS04\\ITSS04\\conn.cs",
+              "ToolTip": "D:\\Github\\KNN91-NET\\ZG\\ITSS04_01_10\\ITSS04\\ITSS04\\conn.cs",
               "RelativeToolTip": "ITSS04\\conn.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -49,9 +70,9 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Storage.cs",
-              "DocumentMoniker": "D:\\KNN91\\3_OnThi\\01-10\\ITSS04\\ITSS04\\ITSS04\\Storage.cs",
+              "DocumentMoniker": "D:\\Github\\KNN91-NET\\ZG\\ITSS04_01_10\\ITSS04\\ITSS04\\Storage.cs",
               "RelativeDocumentMoniker": "ITSS04\\Storage.cs",
-              "ToolTip": "D:\\KNN91\\3_OnThi\\01-10\\ITSS04\\ITSS04\\ITSS04\\Storage.cs",
+              "ToolTip": "D:\\Github\\KNN91-NET\\ZG\\ITSS04_01_10\\ITSS04\\ITSS04\\Storage.cs",
               "RelativeToolTip": "ITSS04\\Storage.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -62,9 +83,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Wasehouse_Management.cs [Design]",
-              "DocumentMoniker": "D:\\KNN91\\3_OnThi\\01-10\\ITSS04\\ITSS04\\ITSS04\\Wasehouse_Management.cs",
+              "DocumentMoniker": "D:\\Github\\KNN91-NET\\ZG\\ITSS04_01_10\\ITSS04\\ITSS04\\Wasehouse_Management.cs",
               "RelativeDocumentMoniker": "ITSS04\\Wasehouse_Management.cs",
-              "ToolTip": "D:\\KNN91\\3_OnThi\\01-10\\ITSS04\\ITSS04\\ITSS04\\Wasehouse_Management.cs [Design]",
+              "ToolTip": "D:\\Github\\KNN91-NET\\ZG\\ITSS04_01_10\\ITSS04\\ITSS04\\Wasehouse_Management.cs [Design]",
               "RelativeToolTip": "ITSS04\\Wasehouse_Management.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T14:11:21.25Z",
@@ -72,24 +93,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Inventory_Management.cs",
-              "DocumentMoniker": "D:\\KNN91\\3_OnThi\\01-10\\ITSS04\\ITSS04\\ITSS04\\Inventory_Management.cs",
+              "DocumentMoniker": "D:\\Github\\KNN91-NET\\ZG\\ITSS04_01_10\\ITSS04\\ITSS04\\Inventory_Management.cs",
               "RelativeDocumentMoniker": "ITSS04\\Inventory_Management.cs",
-              "ToolTip": "D:\\KNN91\\3_OnThi\\01-10\\ITSS04\\ITSS04\\ITSS04\\Inventory_Management.cs",
+              "ToolTip": "D:\\Github\\KNN91-NET\\ZG\\ITSS04_01_10\\ITSS04\\ITSS04\\Inventory_Management.cs",
               "RelativeToolTip": "ITSS04\\Inventory_Management.cs",
-              "ViewState": "AgIAAGcAAAAAAAAAAAAowHIAAAA/AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T13:34:34.675Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Inventory_Management.cs [Design]",
-              "DocumentMoniker": "D:\\KNN91\\3_OnThi\\01-10\\ITSS04\\ITSS04\\ITSS04\\Inventory_Management.cs",
+              "DocumentMoniker": "D:\\Github\\KNN91-NET\\ZG\\ITSS04_01_10\\ITSS04\\ITSS04\\Inventory_Management.cs",
               "RelativeDocumentMoniker": "ITSS04\\Inventory_Management.cs",
-              "ToolTip": "D:\\KNN91\\3_OnThi\\01-10\\ITSS04\\ITSS04\\ITSS04\\Inventory_Management.cs [Design]",
+              "ToolTip": "D:\\Github\\KNN91-NET\\ZG\\ITSS04_01_10\\ITSS04\\ITSS04\\Inventory_Management.cs [Design]",
               "RelativeToolTip": "ITSS04\\Inventory_Management.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-10T12:56:27.121Z",

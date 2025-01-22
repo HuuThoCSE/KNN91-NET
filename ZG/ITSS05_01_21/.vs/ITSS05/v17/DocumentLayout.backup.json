@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\KNN91\\3_OnThi\\01-21\\ITSS05\\",
+  "WorkspaceRootPath": "D:\\Github\\KNN91-NET\\ZG\\ITSS05_01_21\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{553002AE-7AB7-4A60-837F-4E386145466A}|ITSS05\\ITSS05.csproj|d:\\knn91\\3_onthi\\01-21\\itss05\\itss05\\frminventorycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{553002AE-7AB7-4A60-837F-4E386145466A}|ITSS05\\ITSS05.csproj|d:\\github\\knn91-net\\zg\\itss05_01_21\\itss05\\frminventorycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{553002AE-7AB7-4A60-837F-4E386145466A}|ITSS05\\ITSS05.csproj|solutionrelative:itss05\\frminventorycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{553002AE-7AB7-4A60-837F-4E386145466A}|ITSS05\\ITSS05.csproj|d:\\knn91\\3_onthi\\01-21\\itss05\\itss05\\frminventorycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{553002AE-7AB7-4A60-837F-4E386145466A}|ITSS05\\ITSS05.csproj|D:\\Github\\KNN91-NET\\ZG\\ITSS05_01_21\\itss05\\frminventorycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{553002AE-7AB7-4A60-837F-4E386145466A}|ITSS05\\ITSS05.csproj|solutionrelative:itss05\\frminventorycontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{553002AE-7AB7-4A60-837F-4E386145466A}|ITSS05\\ITSS05.csproj|d:\\knn91\\3_onthi\\01-21\\itss05\\itss05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{553002AE-7AB7-4A60-837F-4E386145466A}|ITSS05\\ITSS05.csproj|D:\\Github\\KNN91-NET\\ZG\\ITSS05_01_21\\itss05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{553002AE-7AB7-4A60-837F-4E386145466A}|ITSS05\\ITSS05.csproj|solutionrelative:itss05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{553002AE-7AB7-4A60-837F-4E386145466A}|ITSS05\\ITSS05.csproj|d:\\knn91\\3_onthi\\01-21\\itss05\\itss05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{553002AE-7AB7-4A60-837F-4E386145466A}|ITSS05\\ITSS05.csproj|D:\\Github\\KNN91-NET\\ZG\\ITSS05_01_21\\itss05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{553002AE-7AB7-4A60-837F-4E386145466A}|ITSS05\\ITSS05.csproj|solutionrelative:itss05\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -36,11 +36,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FrmInventoryControl.cs",
-              "DocumentMoniker": "D:\\KNN91\\3_OnThi\\01-21\\ITSS05\\ITSS05\\FrmInventoryControl.cs",
+              "DocumentMoniker": "D:\\Github\\KNN91-NET\\ZG\\ITSS05_01_21\\ITSS05\\FrmInventoryControl.cs",
               "RelativeDocumentMoniker": "ITSS05\\FrmInventoryControl.cs",
-              "ToolTip": "D:\\KNN91\\3_OnThi\\01-21\\ITSS05\\ITSS05\\FrmInventoryControl.cs",
+              "ToolTip": "D:\\Github\\KNN91-NET\\ZG\\ITSS05_01_21\\ITSS05\\FrmInventoryControl.cs",
               "RelativeToolTip": "ITSS05\\FrmInventoryControl.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAArwBoAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAArwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-21T17:02:47.262Z",
               "EditorCaption": ""
@@ -49,38 +49,35 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "FrmInventoryControl.cs [Design]",
-              "DocumentMoniker": "D:\\KNN91\\3_OnThi\\01-21\\ITSS05\\ITSS05\\FrmInventoryControl.cs",
+              "DocumentMoniker": "D:\\Github\\KNN91-NET\\ZG\\ITSS05_01_21\\ITSS05\\FrmInventoryControl.cs",
               "RelativeDocumentMoniker": "ITSS05\\FrmInventoryControl.cs",
               "ToolTip": "D:\\KNN91\\3_OnThi\\01-21\\ITSS05\\ITSS05\\FrmInventoryControl.cs [Design]",
-              "RelativeToolTip": "ITSS05\\FrmInventoryControl.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\KNN91\\3_OnThi\\01-21\\ITSS05\\ITSS05\\FrmInventoryControl.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T16:59:01.262Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-21T16:59:01.262Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "D:\\KNN91\\3_OnThi\\01-21\\ITSS05\\ITSS05\\Form1.cs",
+              "DocumentMoniker": "D:\\Github\\KNN91-NET\\ZG\\ITSS05_01_21\\ITSS05\\Form1.cs",
               "RelativeDocumentMoniker": "ITSS05\\Form1.cs",
               "ToolTip": "D:\\KNN91\\3_OnThi\\01-21\\ITSS05\\ITSS05\\Form1.cs [Design]",
-              "RelativeToolTip": "ITSS05\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\KNN91\\3_OnThi\\01-21\\ITSS05\\ITSS05\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T13:38:48.368Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-01-21T13:38:48.368Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\KNN91\\3_OnThi\\01-21\\ITSS05\\ITSS05\\Form1.cs",
+              "DocumentMoniker": "D:\\Github\\KNN91-NET\\ZG\\ITSS05_01_21\\ITSS05\\Form1.cs",
               "RelativeDocumentMoniker": "ITSS05\\Form1.cs",
-              "ToolTip": "D:\\KNN91\\3_OnThi\\01-21\\ITSS05\\ITSS05\\Form1.cs",
+              "ToolTip": "D:\\Github\\KNN91-NET\\ZG\\ITSS05_01_21\\ITSS05\\Form1.cs",
               "RelativeToolTip": "ITSS05\\Form1.cs",
               "ViewState": "AgIAAOMAAAAAAAAAAAArwPMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-21T13:43:25.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-21T13:43:25.692Z"
             }
           ]
         }
