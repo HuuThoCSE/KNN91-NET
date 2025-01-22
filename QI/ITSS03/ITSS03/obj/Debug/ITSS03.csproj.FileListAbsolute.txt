@@ -1,0 +1,12 @@
+D:\Github\KNN91-NET\QI\ITSS03\ITSS03\bin\Debug\LeNguyenQuangBinh_21022010.exe.config
+D:\Github\KNN91-NET\QI\ITSS03\ITSS03\bin\Debug\LeNguyenQuangBinh_21022010.exe
+D:\Github\KNN91-NET\QI\ITSS03\ITSS03\bin\Debug\LeNguyenQuangBinh_21022010.pdb
+D:\Github\KNN91-NET\QI\ITSS03\ITSS03\obj\Debug\ITSS03.csproj.AssemblyReference.cache
+D:\Github\KNN91-NET\QI\ITSS03\ITSS03\obj\Debug\LeNguyenQuangBinh_21022010.EmergencyMaintenancesManagement.resources
+D:\Github\KNN91-NET\QI\ITSS03\ITSS03\obj\Debug\LeNguyenQuangBinh_21022010.EmergencyMaintenancesRequestDetails.resources
+D:\Github\KNN91-NET\QI\ITSS03\ITSS03\obj\Debug\LeNguyenQuangBinh_21022010.Login.resources
+D:\Github\KNN91-NET\QI\ITSS03\ITSS03\obj\Debug\LeNguyenQuangBinh_21022010.Properties.Resources.resources
+D:\Github\KNN91-NET\QI\ITSS03\ITSS03\obj\Debug\ITSS03.csproj.GenerateResource.cache
+D:\Github\KNN91-NET\QI\ITSS03\ITSS03\obj\Debug\ITSS03.csproj.CoreCompileInputs.cache
+D:\Github\KNN91-NET\QI\ITSS03\ITSS03\obj\Debug\LeNguyenQuangBinh_21022010.exe
+D:\Github\KNN91-NET\QI\ITSS03\ITSS03\obj\Debug\LeNguyenQuangBinh_21022010.pdb

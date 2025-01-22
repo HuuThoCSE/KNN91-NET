@@ -21,6 +21,11 @@ namespace LeNguyenQuangBinh_21022010
         string connString = "server=QBGamer;database=ITSS03DATA;uid=sa;pwd=1";
         private void EmergencyMaintenancesManagement_Load(object sender, EventArgs e)
         {
+            loaddata();
+
+        }
+        public void loaddata()
+        {
             try
             {
                 conn = new SqlConnection(connString);
@@ -45,11 +50,10 @@ namespace LeNguyenQuangBinh_21022010
                 }
                 rdr.Close();
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 MessageBox.Show(ex.Message);
             }
-
         }
 
         private void EmergencyMaintenancesManagement_FormClosed(object sender, FormClosedEventArgs e)
@@ -73,6 +77,10 @@ namespace LeNguyenQuangBinh_21022010
             EmergencyMaintenancesRequestDetails form = new EmergencyMaintenancesRequestDetails(IDselected);
             this.Hide();
             form.Show();
+        }
+        public void tet()
+        {
+            MessageBox.Show("test");
         }
 
         private void dataGridView_CellClick(object sender, DataGridViewCellEventArgs e)

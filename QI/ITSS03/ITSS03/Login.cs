@@ -18,7 +18,7 @@ namespace LeNguyenQuangBinh_21022010
             InitializeComponent();
         }
         SqlConnection conn;
-        string connString = "server=QBGamer;database=ITSS03DATA;uid=sa;pwd=1";
+        string connString = "server=THISPC\\THISPC;database=ITS03DATA;uid=sa;pwd=123456";
         private void Login_Load(object sender, EventArgs e)
         {
             tb_username.Text = "johndoe";
@@ -42,8 +42,9 @@ namespace LeNguyenQuangBinh_21022010
                 }
                 Id = sqlDataReader[0].ToString();
                 EmergencyMaintenancesManagement form = new EmergencyMaintenancesManagement();
-                this.Hide();
-                form.Show();
+                //this.Hide();
+                //form.Show();
+                form.tet();
             }
             sqlDataReader.Close();
             conn.Close();
